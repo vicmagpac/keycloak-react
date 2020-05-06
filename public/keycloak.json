@@ -1,0 +1,8 @@
+{
+    "realm": "esp",
+    "auth-server-url": "http://localhost:8080/auth/",
+    "ssl-required": "external",
+    "resource": "my-client-react",
+    "public-client": true,
+    "confidential-port": 0
+  }
