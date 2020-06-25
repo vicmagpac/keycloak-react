@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 
 import { BrowserRouter, Route, Link } from 'react-router-dom';
 
