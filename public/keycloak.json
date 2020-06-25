@@ -1,8 +1,10 @@
 {
-    "realm": "esp",
-    "auth-server-url": "http://localhost:8080/auth/",
-    "ssl-required": "external",
-    "resource": "my-client-react",
-    "public-client": true,
-    "confidential-port": 0
-  }
+  "realm": "saude",
+  "auth-server-url": "http://localhost:8080/auth/",
+  "ssl-required": "external",
+  "resource": "isus",
+  "credentials": {
+    "secret": "0a3ca669-c0fa-4f0b-936f-df839b43c2c0"
+  },
+  "confidential-port": 0
+}
